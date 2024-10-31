@@ -9,7 +9,8 @@ O monitoramento diário da apresentação e postura individual dos colaboradores
  
 ![MarkIn App](Docs/manangerexample.jpg)
 
-Abrir Protótipo
-[App](h=a2aa10at2FJGngZd918Dzn5ozmy4uSkvQ826tUrSoxtemcydtADszzkvyrZm&ln=en)
+### Plataforma Móvel
+[Link para o Protótipo Móvel](https://app.quant-ux.com/#/test.html?h=a2aa10at2FJGngZd918Dzn5ozmy4uSkvQ826tUrSoxtemcydtADszzkvyrZm&ln=en)
 
-[Mananger]([https://github.com/antoniotavares20/MarkIn/wiki/Requisitos-Sup](https://app.quant-ux.com/#/test.html?h=a2aa10aaWvyL2UATj4UJcvRtKoLjORp5xiHWGlMhZT3KKjOx5VBsTQpdgDEm&ln=en))
+### Dashboard
+[Link para o Dashboard](https://app.quant-ux.com/#/test.html?h=a2aa10aaWvyL2UATj4UJcvRtKoLjORp5xiHWGlMhZT3KKjOx5VBsTQpdgDEm&ln=en)
