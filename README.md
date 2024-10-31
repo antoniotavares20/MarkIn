@@ -2,5 +2,7 @@
 O monitoramento diário da apresentação e postura individual dos colaboradores que interagem diretamente com o público ganha importância crescente. Empresas que prestam serviços de atendimento presencial buscam garantir que seus colaboradores estejam preparados e bem apresentados para atender a diversos clientes.
 
 # Prottipo
-![Descrição da Imagem](Docs/Protótipos/MarkInMananger/Screen 2.png)
  
+![MarkIn App](Docs/appmarkin.jpg)
+ 
+![MarkIn App](Docs/manangerexample)
