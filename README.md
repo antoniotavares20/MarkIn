@@ -5,7 +5,7 @@ O monitoramento diário da apresentação e postura individual dos colaboradores
  
 # Protótipo
  
-![MarkIn App](Docs/appmarkin.jpg)
+![MarkIn App](Docs/appmarkin2.jpg)
  
 ![MarkIn App](Docs/manangerexample.jpg)
 
