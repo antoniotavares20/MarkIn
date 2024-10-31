@@ -5,4 +5,4 @@ O monitoramento diário da apresentação e postura individual dos colaboradores
  
 ![MarkIn App](Docs/appmarkin.jpg)
  
-![MarkIn App](Docs/manangerexample)
+![MarkIn App](Docs/manangerexample.jpg)
